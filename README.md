@@ -23,6 +23,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="80" height="80"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="80" height="80"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" width="80" height="80"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="80" height="80"/>
 </div>
   <div>
 <a href="https://github.com/WesleySCorrea">
